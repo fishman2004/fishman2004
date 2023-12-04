@@ -43,8 +43,8 @@
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/ibiapino"><img src="https://raw.githubusercontent.com/fishman2004/fishman2004/main/img/discord.png" alt="Discord"/></a>
-  <a href="https://www.linkedin.com/in/kayo-ibiapino-584756275/"><img src="https://raw.githubusercontent.com/fishman2004/fishaman2004/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://discordapp.com/users/ibiapino"><img src="https://raw.githubusercontent.com/fishman2004/fishman2004/main/imgs/discord.png" alt="Discord"/></a>
+  <a href="https://www.linkedin.com/in/kayo-ibiapino-584756275/"><img src="https://raw.githubusercontent.com/fishman2004/fishman2004/main/imgs/linkedin.png" alt="Linkedin"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! see ya.</h4>
