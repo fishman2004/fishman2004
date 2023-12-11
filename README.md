@@ -8,23 +8,21 @@
 
 
 
-<h2  style="color: #ba6771;">Overview 👉</h2>
+<h2  style="color: #ba6771;">Overview ⭐</h2>
 
 <p style="color: #b38c7f;">Front-end developer, always coding something or learning something new.</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I'm very friendly if you want to contact me, or work together you can call, I'd love to contribute with my skills"</b></em>
-
 <div align="center">
   <a href="https://github.com/fishman2004">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=fishman2004&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=fishman2004&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/fishman2004"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishman2004&layout=compact&langs_count=7&theme=date_night"/>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishman2004&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <br><br>
 
-<h2 style="color: #ba6771;">Skills 🚀</h2>
+<h2 style="color: #ba6771;">Skills ⭐</h2>
 
 <h3 align="center">langs</h3>
 <p align="center">
